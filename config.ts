@@ -77,7 +77,7 @@ export default {
       },
       {
         image: '/images/solution3.png',
-        color: '#F6F4FE',
+        color: '#F5FDF5',
         text: 'The Matrix Labs team is a group of experienced blockchain developers. They are partnering with Ezek and PHANTACi to bring the Phanta Bear NFT Collection to life on the blockchain.',
       },
     ],
