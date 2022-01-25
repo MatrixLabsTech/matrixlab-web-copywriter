@@ -7,6 +7,7 @@ export default {
       {
         title: "Matrix World",
         cover: "/images/matrix.png",
+        link: '/',
         statistics: [
           {
             leading: "1",
@@ -27,6 +28,7 @@ export default {
       {
         title: "Phanta Bear",
         cover: "/images/bear.png",
+        link: '/',
         statistics: [
           {
             leading: "1",
@@ -47,6 +49,7 @@ export default {
       {
         title: "Rivermen",
         cover: "/images/rivermen.png",
+        link: '/',
         statistics: [
           {
             leading: "1",
@@ -99,5 +102,87 @@ export default {
         user: 'Eth News'
       },
     ]
+  },
+  carrers: {
+    leading: {
+      desc: "Matrix Labs provides a range of benefits to support employee development and well-being. We value diversity and equality, employing people from different cultural and ethnical backgrounds. Other reasons for joing our team are:",
+      reasons: [
+        'Creative work environment',
+        'Goal oriented and innovative team',
+        'Inter-studio transfer opportunities',
+        'Flexible work hours and work from home policies',
+        'Open and transparent promotion mechanisms'
+      ]
+    },
+    jobs: {
+      Art: [
+        { 
+          id: 0,
+          title: 'Character Concept Artist',
+          responsibility: [
+            'Create characters based on the combined requirements of the Art Director and the game design team.',
+            'Work with the Art Director and other team members to establish style guidelines and integrate them into the concept art.',
+            'Review concept art from art vendors and provide feedback.' 
+          ],
+          requirments: [
+            'Solid painting skills and understanding of painting techniques.',
+            'Very familiar with Adobe Photoshop and other related software.',
+            'Proven record of meeting deadlines.',
+            'Familiar with different styles such as Western art styles and Cyberpunk.',
+            'Good communication, interpersonal skills and learning ability, and a high sense of responsibility.'
+          ]
+        },
+        { 
+          id: 1,
+          title: 'Character Concept Artist',
+          responsibility: [
+            'Create characters based on the combined requirements of the Art Director and the game design team.',
+            'Work with the Art Director and other team members to establish style guidelines and integrate them into the concept art.',
+            'Review concept art from art vendors and provide feedback.' 
+          ],
+          requirments: [
+            'Solid painting skills and understanding of painting techniques.',
+            'Very familiar with Adobe Photoshop and other related software.',
+            'Proven record of meeting deadlines.',
+            'Familiar with different styles such as Western art styles and Cyberpunk.',
+            'Good communication, interpersonal skills and learning ability, and a high sense of responsibility.'
+          ]
+        }
+      ],
+      Technology: [
+        { 
+          id: 1,
+          title: 'Character Concept Artist',
+          responsibility: [
+            'Create characters based on the combined requirements of the Art Director and the game design team.',
+            'Work with the Art Director and other team members to establish style guidelines and integrate them into the concept art.',
+            'Review concept art from art vendors and provide feedback.' 
+          ],
+          requirments: [
+            'Solid painting skills and understanding of painting techniques.',
+            'Very familiar with Adobe Photoshop and other related software.',
+            'Proven record of meeting deadlines.',
+            'Familiar with different styles such as Western art styles and Cyberpunk.',
+            'Good communication, interpersonal skills and learning ability, and a high sense of responsibility.'
+          ]
+        },
+        { 
+          id: 1,
+          title: 'Character Concept Artist',
+          responsibility: [
+            'Create characters based on the combined requirements of the Art Director and the game design team.',
+            'Work with the Art Director and other team members to establish style guidelines and integrate them into the concept art.',
+            'Review concept art from art vendors and provide feedback.' 
+          ],
+          requirments: [
+            'Solid painting skills and understanding of painting techniques.',
+            'Very familiar with Adobe Photoshop and other related software.',
+            'Proven record of meeting deadlines.',
+            'Familiar with different styles such as Western art styles and Cyberpunk.',
+            'Good communication, interpersonal skills and learning ability, and a high sense of responsibility.'
+          ]
+        }
+      ]
+    }
   }
 }
