@@ -63,6 +63,41 @@ export default {
         ],
         detail: "Rivermen is an Oriental Cyber Theme Park based on blockchain technology, launched by the Cthuwork&NA team using elements from the voxel version of the “Along the River During Qingming Festival”. Each unique Rivermen NFT is a randomized 3D character model."
       },
+    ],
+    solutions: [
+      {
+        image: '/images/solution1.png',
+        color: '#FCF9F5',
+        text: 'The Matrix Labs team is a group of experienced blockchain developers. They are partnering with Ezek and PHANTACi to bring the Phanta Bear NFT Collection to life on the blockchain.'
+      },
+      {
+        image: '/images/solution3.png',
+        color: '#F6F4FE',
+        text: 'The Matrix Labs team is a group of experienced blockchain developers. They are partnering with Ezek and PHANTACi to bring the Phanta Bear NFT Collection to life on the blockchain.',
+      },
+      {
+        image: '/images/solution3.png',
+        color: '#F6F4FE',
+        text: 'The Matrix Labs team is a group of experienced blockchain developers. They are partnering with Ezek and PHANTACi to bring the Phanta Bear NFT Collection to life on the blockchain.',
+      },
+    ],
+    comments: [
+      {
+        text: 'The most used contract in blockchain.',
+        user: 'Venture Beat'
+      },
+      {
+        text: 'A cultural phenomenon.',
+        user: 'Eth News'
+      },
+      {
+        text: 'The most used contract in blockchain.',
+        user: 'Venture Beat'
+      },
+      {
+        text: 'A cultural phenomenon.',
+        user: 'Eth News'
+      },
     ]
   }
 }
