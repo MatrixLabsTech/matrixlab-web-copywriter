@@ -1,4 +1,4 @@
-name: Prod:Deploy to Cloudflare Workers with Wrangler
+name: Trigger web deployment
 
 on:
   push:
@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: self-hosted
+    runs-on: ubuntu
 
     steps:
       - uses: actions/checkout@v2
