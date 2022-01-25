@@ -119,7 +119,7 @@ export default {
       Art: [
         { 
           id: 0,
-          title: 'Character Concept Artist',
+          title: 'Test Art job',
           responsibility: [
             'Create characters based on the combined requirements of the Art Director and the game design team.',
             'Work with the Art Director and other team members to establish style guidelines and integrate them into the concept art.',
@@ -152,8 +152,8 @@ export default {
       ],
       Technology: [
         { 
-          id: 1,
-          title: 'Character Concept Artist',
+          id: 0,
+          title: 'Test Technology job',
           responsibility: [
             'Create characters based on the combined requirements of the Art Director and the game design team.',
             'Work with the Art Director and other team members to establish style guidelines and integrate them into the concept art.',
