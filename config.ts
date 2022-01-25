@@ -104,6 +104,7 @@ export default {
     ]
   },
   carrers: {
+    title: 'Carrers - Matrix Labs',
     leading: {
       desc: "Matrix Labs provides a range of benefits to support employee development and well-being. We value diversity and equality, employing people from different cultural and ethnical backgrounds. Other reasons for joing our team are:",
       reasons: [
