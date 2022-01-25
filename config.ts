@@ -1,4 +1,4 @@
-{
+export default {
   "home": {
     "title": "Home - Matrix Labs",
     "leading-title": "Bringing the mataverse to life",
