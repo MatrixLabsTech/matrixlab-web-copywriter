@@ -231,6 +231,28 @@ export default {
             'Experienced in Unity Network frameworks (i.e. Fonton, Mirror, Normcore).',
             'Successfully launched at least 1 Unity games as a tech lead.',
           ]
+        },
+        { 
+          id: 2,
+          title: 'Senior Unity Developer',
+          responsibility: [
+            'Coordinate the work of other developers and provide mentorship and support for less experienced teammates.',
+            'Hands on implementation of features and updates with other developers.',
+            'Create technical designs for reusable white label systems that meet current requirements and anticipate future needs.' ,
+            'Work with back-end developers for seamless integration of features and live ops.' ,
+            'Build a deep understanding of core systems and architecture to provide quality benchmarking on process, updates and optimizations.' ,
+            'Uphold code quality and code reviews while ensuring features are delivered on time.' 
+          ],
+          requirments: [
+            'Bachelor’s Degree or better in Computer Science.',
+            'Minimum 5 years of commercial game programming experience with 2+ in a leadership or co-leadership level role.',
+            'Minimum 3 years of game development experience with Unity.',
+            'Strong programming skills in Unity and C#.',
+            'Broad knowledge of game architecture and technologies.',
+            'Experience with debugging, profiling and performance optimizations and ability to coach other devs in these skills.',
+            'Experienced in Unity Network frameworks (i.e. Fonton, Mirror, Normcore).',
+            'Successfully launched at least 1 Unity games as a tech lead.',
+          ]
         }
       ]
     }
