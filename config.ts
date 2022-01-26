@@ -49,7 +49,7 @@ export default {
       {
         title: "Rivermen",
         cover: "/images/rivermen.png",
-        link: '/',
+        link: 'https://rivermen.io/home',
         statistics: [
           {
             leading: "400+ ETH",
@@ -208,7 +208,7 @@ export default {
             'Broad knowledge of game architecture and technologies.',
             'Experience with debugging, profiling and performance optimizations and ability to coach other devs in these skills.',
             'Experienced in Unity Network frameworks (i.e. Fonton, Mirror, Normcore).',
-            'Successfully launched at least 1 Unity games as a tech lead.',
+            'Successfully launched at least 1 Unity games as a tech lead.'
           ]
         }
       ]
