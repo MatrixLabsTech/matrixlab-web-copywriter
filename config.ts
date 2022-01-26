@@ -6,7 +6,8 @@ export default {
     projects: [
       {
         title: "Matrix World",
-        cover: "/images/matrix.png",
+        cover: "https://d3qhlnckznpee4.cloudfront.net/matrixcover.jpg",
+        video: "https://d3qhlnckznpee4.cloudfront.net/matrixvideo.mp4",
         link: 'https://www.matrixworld.org/home',
         statistics: [
           {
@@ -27,7 +28,8 @@ export default {
       
       {
         title: "Phanta Bear",
-        cover: "/images/bear.png",
+        cover: "https://d3qhlnckznpee4.cloudfront.net/phantabearcover.jpg",
+        video: "https://d3qhlnckznpee4.cloudfront.net/phantabearvideo.mp4",
         link: 'https://www.ezek.io/',
         statistics: [
           {
@@ -49,7 +51,8 @@ export default {
       {
         title: "Rivermen",
         cover: "/images/rivermen.png",
-        link: 'https://rivermen.io/home',
+        link: 'https://d3qhlnckznpee4.cloudfront.net/rivermencover.jpg',
+        video: 'https://d3qhlnckznpee4.cloudfront.net/rivermenvideo.mp4',
         statistics: [
           {
             leading: "400+ ETH",
