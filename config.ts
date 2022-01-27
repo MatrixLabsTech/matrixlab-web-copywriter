@@ -213,7 +213,9 @@ export default {
             'Experience with debugging, profiling and performance optimizations and ability to coach other devs in these skills.',
             'Experienced in Unity Network frameworks (i.e. Fonton, Mirror, Normcore).',
             'Successfully launched at least 1 Unity games as a tech lead.'
-          ]
+          ],
+          nice: [],
+          apply: ''
         }
       ]
     }
