@@ -10,6 +10,7 @@ export default {
         cover: "https://d3qhlnckznpee4.cloudfront.net/matrixcover.jpg",
         video: "https://d3qhlnckznpee4.cloudfront.net/matrixvideo.mp4",
         link: 'https://www.matrixworld.org/home',
+        logo: '/images/matrix_logo.svg',
         statistics: [
           {
             leading: "Multichain",
@@ -32,6 +33,7 @@ export default {
         cover: "https://d3qhlnckznpee4.cloudfront.net/phantabearcover.jpg",
         video: "https://d3qhlnckznpee4.cloudfront.net/phantabearvideo.mp4",
         link: 'https://www.ezek.io/',
+        logo: '/images/bear_logo.svg',
         statistics: [
           {
             leading: "No. 1",
@@ -54,6 +56,7 @@ export default {
         cover: "/images/rivermen.png",
         link: 'https://d3qhlnckznpee4.cloudfront.net/rivermencover.jpg',
         video: 'https://d3qhlnckznpee4.cloudfront.net/rivermenvideo.mp4',
+        logo: '/images/rivermen_logo.svg',
         statistics: [
           {
             leading: "400+ ETH",
