@@ -56,7 +56,7 @@ export default {
         cover: "/images/rivermen.png",
         link: 'https://d3qhlnckznpee4.cloudfront.net/rivermencover.jpg',
         video: 'https://d3qhlnckznpee4.cloudfront.net/rivermenvideo.mp4',
-        logo: '/images/rivermen_logo.svg',
+        logo: '/images/rivermen_logo.png',
         statistics: [
           {
             leading: "400+ ETH",
