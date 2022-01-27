@@ -14,4 +14,4 @@ jobs:
           submodules: true
 
       - name: Trigger deployment
-        run: curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/045f6503-e7e0-482b-acbe-637ce072aa66"
+        run: curl -X POST ${{ secrets.DEPLOY_HOOK }}
