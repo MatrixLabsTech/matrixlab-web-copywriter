@@ -138,7 +138,8 @@ export default {
             'Proven record of meeting deadlines.',
             'Familiar with different styles such as Western art styles and Cyberpunk.',
             'Good communication, interpersonal skills and learning ability, and a high sense of responsibility.'
-          ]
+          ],
+          apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         },
         { 
           id: 1,
@@ -159,7 +160,8 @@ export default {
             'Team player.',
             'Familiar with the software required for the position.',
             'Comfortable with learning new tools and proactively tries to understand new technologies.'
-          ]
+          ],
+          apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         },
         { 
           id: 2,
@@ -175,7 +177,8 @@ export default {
             'Good compressive skills, fast learner, motivated individual.',
             'Must be comfortable with learning new tools and being able to apply them quickly to the job.',
             'Experience in the gaming industry preferred.'
-          ]
+          ],
+          apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         },
         { 
           id: 3,
@@ -192,7 +195,8 @@ export default {
             'Familiar with Photoshop and Illustrator and other related software.',
             'Interested in gaming and anime. Critical, creative, team player and good at communicating.',
             'Experience in game UI projects preferred.'
-          ]
+          ],
+          apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         }
       ],
       Technology: [
@@ -217,8 +221,13 @@ export default {
             'Experienced in Unity Network frameworks (i.e. Fonton, Mirror, Normcore).',
             'Successfully launched at least 1 Unity games as a tech lead.'
           ],
-          nice: [],
-          apply: ''
+          nice: [
+            'Unity rendering, graphics compression and art pipeline knowledge for mobile development.',
+            'Experienced in Web-based Unity game.',
+            'Love to play 3D sandbox games like Minecraft.',
+            'Experiences in Blockchain-based decentralized applications.'
+          ],
+          apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         }
       ]
     }
