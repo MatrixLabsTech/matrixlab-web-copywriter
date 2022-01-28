@@ -108,6 +108,155 @@ export default {
         text: 'A cultural phenomenon.',
         user: 'Eth News'
       },
+    ],
+    partners: [
+      {
+        image: '/images/partners/1.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/2.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/3.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/4.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/5.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/6.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/7.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/8.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/9.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/10.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/11.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/12.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/13.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/14.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/15.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/partners/16.png',
+        name: '',
+        url: 'xx'
+      },
+    ],
+    investors: [
+      {
+        image: '/images/investors/1.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/2.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/3.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/4.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/5.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/6.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/7.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/8.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/9.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/10.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/11.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/12.png',
+        name: '',
+        url: 'xx'
+      },
+      {
+        image: '/images/investors/13.png',
+        name: '',
+        url: 'xx'
+      },
     ]
   },
   carrers: {
