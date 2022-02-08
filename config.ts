@@ -275,6 +275,24 @@ export default {
       Art: [
         { 
           id: 0,
+          title: 'Art Director',
+          responsibility: [
+            'Set the art style of the assigned game project and work with other artists and management from other departments to ensure that allcontents produced follow the quality standards determined.',
+            'Produce concept art for 3D artists to create game assets.',
+            'Establish the art production pipeline and manage the execution of the pipeline by the art team.',
+            'Work closely with the Game Designer to make sure that the gameplay experience matches the tone and style of the game.'
+          ],
+          requirments: [
+            '3-5 years of experience as Lead Artist in the gaming industry, 2D concept background with 3D knowledge preferred.',
+            'Familiar with Adobe Photoshop and other design tools, knowledge about 3D software preferred.',
+            'Have a good understanding of art-related disciplines including concept, modeling, rigging, animation, visual effect, etc.',
+            'Experience working with outsourcing companies strongly preferred',
+            'Passionate about the gaming industry and have a good understanding of what makes a game visually appealling and fun to play.'
+          ],
+          apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
+        },
+        { 
+          id: 1,
           title: 'Character Concept Artist',
           responsibility: [
             'Create characters based on the combined requirements of the Art Director and the game design team.',
@@ -291,7 +309,7 @@ export default {
           apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         },
         { 
-          id: 1,
+          id: 2,
           title: 'Environment Concept Artist',
           responsibility: [
             'Work closely with the Art Director to decide the game style and formulate design guidelines and specifications for environment concept creation.',
@@ -313,7 +331,7 @@ export default {
           apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         },
         { 
-          id: 2,
+          id: 3,
           title: '3D Modeler',
           responsibility: [
             'Create models and textures of buildings, vegetation, objects, etc..',
@@ -330,7 +348,7 @@ export default {
           apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         },
         { 
-          id: 3,
+          id: 4,
           title: 'UI Designer',
           responsibility: [
             'Create intuitive and elegant in-game UI, focusing on player’s experience.',
@@ -344,24 +362,6 @@ export default {
             'Familiar with Photoshop and Illustrator and other related software.',
             'Interested in gaming and anime. Critical, creative, team player and good at communicating.',
             'Experience in game UI projects preferred.'
-          ],
-          apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
-        },
-        { 
-          id: 4,
-          title: 'Art Director',
-          responsibility: [
-            'Set the art style of the assigned game project and work with other artists and management from other departments to ensure that allcontents produced follow the quality standards determined.',
-            'Produce concept art for 3D artists to create game assets.',
-            'Establish the art production pipeline and manage the execution of the pipeline by the art team.',
-            'Work closely with the Game Designer to make sure that the gameplay experience matches the tone and style of the game.'
-          ],
-          requirments: [
-            '3-5 years of experience as Lead Artist in the gaming industry, 2D concept background with 3D knowledge preferred.',
-            'Familiar with Adobe Photoshop and other design tools, knowledge about 3D software preferred.',
-            'Have a good understanding of art-related disciplines including concept, modeling, rigging, animation, visual effect, etc.',
-            'Experience working with outsourcing companies strongly preferred',
-            'Passionate about the gaming industry and have a good understanding of what makes a game visually appealling and fun to play.'
           ],
           apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         }
