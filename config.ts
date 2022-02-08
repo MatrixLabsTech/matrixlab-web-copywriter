@@ -379,7 +379,7 @@ export default {
           apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         }
       ],
-      CreativeDirection: [
+      'Creative Direction': [
         { 
           id: 0,
           title: 'Game Designer',
