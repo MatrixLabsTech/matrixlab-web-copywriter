@@ -3,7 +3,7 @@ export default {
     title: "Home - Matrix Labs",
     email: "wusheng@whitematrix.io",
     "leading-title": "Bringing the metaverse to life",
-    "leading-text": "The Matrix Labs team is a group of experienced blockchain developers. They are partnering with Ezek and PHANTACi to bring the Phanta Bear NFT Collection to life on the blockchain.",
+    "leading-text": "Matrix Labs is a passionate group of blockchain enthusiasts who are working to build the metaverse and expand the influence of blockchain technology.",
     projects: [
       {
         title: "Matrix World",
