@@ -54,7 +54,7 @@ export default {
       {
         title: "Rivermen",
         cover: "/images/rivermen.png",
-        link: 'https://d3qhlnckznpee4.cloudfront.net/rivermencover.jpg',
+        link: 'https://rivermen.io/',
         video: 'https://d3qhlnckznpee4.cloudfront.net/rivermenvideo.mp4',
         logo: '/images/rivermen_logo.png',
         statistics: [
@@ -78,7 +78,7 @@ export default {
       {
         image: '/images/solution1.png',
         color: '#FCF9F5',
-        text: 'The Matrix Labs team is a group of experienced blockchain developers. They are partnering with Ezek and PHANTACi to bring the Phanta Bear NFT Collection to life on the blockchain.'
+        text: 'We provide Matrix World, a decentralized open virtual world that lets users interact with immersive 3D applications simultaneously running on different blockchains.In Matrix World, users can take advantage of standard 3D open-world features such as building 3D architectures, hosting virtual meetings, exhibiting digital assets (e.g., NFTs), etc., along with more advanced functionality such as creating and hosting 3D decentralized applications (DApps) using Matrix''s built-in creator services and computational resources. '
       },
       {
         image: '/images/solution3.png',
