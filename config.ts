@@ -390,7 +390,7 @@ export default {
             'Periodically analyzing player experience and determine future goals based on player feedback.'
           ],
           requirments: [
-            '3-5 years game design experience, experience with Unity 3D games is a plus. OR has worked on at least 1 released title, with exprience going from 0 to 1 and sending products live.',
+            '3-5 years game design experience, experience with Unity 3D games is a plus. OR has worked on at least 1 released title, with experience going from 0 to 1 and sending products live.',
             'Proficiency with design and prototyping tools including but not limited to Adobe Creative Suite, Sketch and different game engines.',
             'Detail oriented, able to prioritize player experience, open to new ideas and approaches, willing to learn new tools and technologies related to the profession.'
           ],
@@ -405,7 +405,7 @@ export default {
           id: 1,
           title: 'Art Director',
           responsibility: [
-            'Set the art style of the assigned game project and work with other artists and management from other departments to ensure that allcontents produced follow the quality standards determined.',
+            'Set the art style of the assigned game project and work with other artists and management from other departments to ensure that all contents produced follow the quality standards determined.',
             'Produce concept art for 3D artists to create game assets.',
             'Establish the art production pipeline and manage the execution of the pipeline by the art team.',
             'Work closely with the Game Designer to make sure that the gameplay experience matches the tone and style of the game.'
@@ -415,7 +415,7 @@ export default {
             'Familiar with Adobe Photoshop and other design tools, knowledge about 3D software preferred.',
             'Have a good understanding of art-related disciplines including concept, modeling, rigging, animation, visual effect, etc.',
             'Experience working with outsourcing companies strongly preferred',
-            'Passionate about the gaming industry and have a good understanding of what makes a game visually appealling and fun to play.'
+            'Passionate about the gaming industry and have a good understanding of what makes a game visually appealing and fun to play.'
           ],
           apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         }
