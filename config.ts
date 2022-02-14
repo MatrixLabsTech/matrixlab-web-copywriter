@@ -297,7 +297,7 @@ export default {
             'Work closely with the Art Director to decide the game style and formulate design guidelines and specifications for environment concept creation.',
             'Coordinate between concept artists and the 3D environment team.',
             'Create environment concept designs upon request.' ,
-            'Review the concept art submitted by outsourcing comapnies and provide feedback.' 
+            'Review the concept art submitted by outsourcing companies and provide feedback.' 
           ],
           requirments: [
             'Passionate about the gaming industry. Have a good understanding of what makes games visually appealing and fun to play.',
