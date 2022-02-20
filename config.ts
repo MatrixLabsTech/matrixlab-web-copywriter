@@ -83,12 +83,12 @@ export default {
       {
         image: '/images/solution3.png',
         color: '#F6F4FE',
-        text: 'The Matrix Labs team is a group of experienced blockchain developers. They are partnering with Ezek and PHANTACi to bring the Phanta Bear NFT Collection to life on the blockchain.',
+        text: 'We provide Matrix Chainbase, which is a cloud-based Web3 Infrastructure as a Service (IaaS) platform. It helps hasten the construction of a functional web3 dApp, by using the elasticity, high availability, and flexibility of cloud computing.Matrix Chainbase bridges the barrier between web 2.0 and web 3.0 by leveraging the strengths of each and enabling the rapid development of a functional, decentralized metaverse with enhanced user-friendliness, interoperability, and accessibility. ChainBase has been supported multiple Blockchain projects including Matrix World and Phanta Bear. ',
       },
       {
         image: '/images/solution3.png',
         color: '#F5FDF5',
-        text: 'The Matrix Labs team is a group of experienced blockchain developers. They are partnering with Ezek and PHANTACi to bring the Phanta Bear NFT Collection to life on the blockchain.',
+        text: 'Matrix Marketplace is a multichain NFT marketplace that allows buyers to create, list, and purchase NFTsl; and lets builders quickly ramp up their customized NFT shops with a few clicks. For NFT buyers, besides the up-to-date NFT analytics information, we will also maximize the trading liquidity by providing NFT liquidity pools. For builders, we will provide drag and drop NFT shop creation experiences, as well as multiple NFT templates including mystery box, on-chain random lottery, and mutable NFTs to make NFT projects launch much easier than ever.',
       },
     ],
     comments: [
@@ -111,82 +111,82 @@ export default {
     ],
     partners: [
       {
-        image: '/images/partners/1.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/flow.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/2.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/blocto.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/3.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/dapper.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/4.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/opensea.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/5.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/wm.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/6.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/cybergalz.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/7.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/gamecreator.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/8.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/mrc.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/9.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/chainide.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/10.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/rarible.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/11.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/rhizeme.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/12.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/ezek.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/13.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/viv3.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/14.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/rivermen.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/15.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/mask.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/partners/16.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/emeraldcity.png',
         name: '',
         url: 'xx'
       },
