@@ -189,74 +189,79 @@ export default {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/emeraldcity.png',
         name: '',
         url: 'xx'
-      },
+      }
     ],
     investors: [
       {
-        image: '/images/investors/1.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/sevenx.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/2.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/bonfire.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/3.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/arkstream.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/4.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/panony.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/5.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/sky9.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/6.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/flow.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/7.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/fenbushi.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/8.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/tess.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/9.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/mooncapital.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/10.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/genesis.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/11.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/secondlive.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/12.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/animoca.png',
         name: '',
         url: 'xx'
       },
       {
-        image: '/images/investors/13.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/com2us.png',
         name: '',
         url: 'xx'
       },
+       {
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/hashglobal.png',
+        name: '',
+        url: 'xx'
+      }
     ]
   },
   carrers: {
