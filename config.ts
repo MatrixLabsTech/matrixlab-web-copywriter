@@ -76,20 +76,32 @@ export default {
     ],
     solutions: [
       {
-        title: 'xxx',
-        subtitle: 'xxx',
-        image: '/images/solution1.png',
-        text: `We provide Matrix World, a decentralized open virtual world that lets users interact with immersive 3D applications simultaneously running on different blockchains.In Matrix World, users can take advantage of standard 3D open-world features such as building 3D architectures, hosting virtual meetings, exhibiting digital assets (e.g., NFTs), etc., along with more advanced functionality such as creating and hosting 3D decentralized applications (DApps) using Matrix's built-in creator services and computational resources. `
+        title: 'Matrix World',
+        subtitle: '3D Decentralized Application Platform',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/Matrix+World.png',
+        text: [
+          'We provide Matrix World, a decentralized open virtual world that lets users interact with immersive 3D applications simultaneously running on different blockchains.',
+          `In Matrix World, users can take advantage of standard 3D open-world features such as building 3D architectures, hosting virtual meetings, exhibiting digital assets (e.g., NFTs), etc., along with more advanced functionality such as creating and hosting 3D decentralized applications (DApps) using Matrix's built-in creator services and computational resources. `,
+        ]
       },
       {
-        image: '/images/solution3.png',
-        color: '#F6F4FE',
-        text: 'We provide Matrix Chainbase, which is a cloud-based Web3 Infrastructure as a Service (IaaS) platform. It helps hasten the construction of a functional web3 DApp, by using the elasticity, high availability, and flexibility of cloud computing.Matrix Chainbase bridges the barrier between web 2.0 and web 3.0 by leveraging the strengths of each and enabling the rapid development of a functional, decentralized metaverse with enhanced user-friendliness, interoperability, and accessibility. ChainBase has been supported multiple Blockchain projects including Matrix World and Phanta Bear. ',
+        title: 'Chainbase',
+        subtitle: 'Cloud-based Web3 Infrastructure',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/Matrix+Chainbase.png',
+        text: [
+          'We provide Matrix Chainbase, which is a cloud-based Web3 Infrastructure as a Service (IaaS) platform. It helps hasten the construction of a functional web3 dApp, by using the elasticity, high availability, and flexibility of cloud computing. ',
+          'Matrix Chainbase bridges the barrier between web 2.0 and web 3.0 by leveraging the strengths of each and enabling the rapid development of a functional, decentralized metaverse with enhanced user-friendliness, interoperability, and accessibility. ChainBase has been supported multiple Blockchain projects including Matrix World and Phanta Bear.',
+        ]
       },
       {
-        image: '/images/solution3.png',
-        color: '#F5FDF5',
-        text: 'Matrix Marketplace is a multichain NFT marketplace that allows buyers to create, list, and purchase NFTs and lets builders quickly ramp up their customized NFT shops with a few clicks. For NFT buyers, besides the up-to-date NFT analytics information, we will also maximize the trading liquidity by providing NFT liquidity pools. For builders, we will provide drag and drop NFT shop creation experiences, as well as multiple NFT templates including mystery box, on-chain random lottery, and mutable NFTs to make NFT projects launch much easier than ever.',
+        title: 'Matrix Marketplace',
+        subtitle: '',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/Matrix+Marketplace.png',
+        text: [
+          'Matrix Marketplace is a multichain NFT marketplace that allows buyers to create, list, and purchase NFTsl; and lets builders quickly ramp up their customized NFT shops with a few clicks. ',
+          'For NFT buyers, besides the up-to-date NFT analytics information, we will also maximize the trading liquidity by providing NFT liquidity pools. ',
+          'For builders, we will provide drag and drop NFT shop creation experiences, as well as multiple NFT templates including mystery box, on-chain random lottery, and mutable NFTs to make NFT projects launch much easier than ever.',
+        ]
       },
     ],
     comments: [
