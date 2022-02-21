@@ -13,11 +13,11 @@ export default {
         logo: '/images/matrix_logo.svg',
         statistics: [
           {
-            leading: "Multichain",
+            leading: "MULTICHAIN",
             sub: "Turing-complete metaverse"
           },
           {
-            leading: "Partners",
+            leading: "PARTNERS",
             sub: "Flow, Opensea, Rarible…"
           },
           {
