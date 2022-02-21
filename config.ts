@@ -82,7 +82,7 @@ export default {
         text: [
           'We provide Matrix World, a decentralized open virtual world that lets users interact with immersive 3D applications simultaneously running on different blockchains.',
           `In Matrix World, users can take advantage of standard 3D open-world features such as building 3D architectures, hosting virtual meetings, exhibiting digital assets (e.g., NFTs), etc., along with more advanced functionality such as creating and hosting 3D decentralized applications (DApps) using Matrix's built-in creator services and computational resources. `,
-        ]
+        ],
       },
       {
         title: 'Chainbase',
@@ -91,7 +91,7 @@ export default {
         text: [
           'We provide Matrix Chainbase, which is a cloud-based Web3 Infrastructure as a Service (IaaS) platform. It helps hasten the construction of a functional web3 dApp, by using the elasticity, high availability, and flexibility of cloud computing. ',
           'Matrix Chainbase bridges the barrier between web 2.0 and web 3.0 by leveraging the strengths of each and enabling the rapid development of a functional, decentralized metaverse with enhanced user-friendliness, interoperability, and accessibility. ChainBase has been supported multiple Blockchain projects including Matrix World and Phanta Bear.',
-        ]
+        ],
       },
       {
         title: 'Matrix Marketplace',
@@ -101,7 +101,7 @@ export default {
           'Matrix Marketplace is a multichain NFT marketplace that allows buyers to create, list, and purchase NFTsl; and lets builders quickly ramp up their customized NFT shops with a few clicks. ',
           'For NFT buyers, besides the up-to-date NFT analytics information, we will also maximize the trading liquidity by providing NFT liquidity pools. ',
           'For builders, we will provide drag and drop NFT shop creation experiences, as well as multiple NFT templates including mystery box, on-chain random lottery, and mutable NFTs to make NFT projects launch much easier than ever.',
-        ]
+        ],
       },
     ],
     comments: [
