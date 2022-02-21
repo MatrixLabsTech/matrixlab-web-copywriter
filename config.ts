@@ -45,7 +45,7 @@ export default {
           },
           {
             icon:"https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/eth+icon.svg",
-            leading: "20K+ ETH",
+            leading: "20K+",
             sub: "trading volume in the first week"
           },
         ],
@@ -65,12 +65,12 @@ export default {
           },
           {
             icon:"https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/eth+icon.svg",
-            leading: "400+ ETH",
+            leading: "400+",
             sub: "in primary market sales"
           },
           {
             icon:"https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/eth+icon.svg",
-            leading: "1.2K+ ETH",
+            leading: "1.2K+",
             sub: "total trading volume"
           },          
         ],
