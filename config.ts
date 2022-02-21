@@ -14,11 +14,11 @@ export default {
         statistics: [
           {
             leading: "Multichain",
-            sub: "first Turing-complete multichain metaverse"
+            sub: "Turing-complete metaverse"
           },
           {
             leading: "Partners",
-            sub: "Flow, Opensea, Rarible, Mask, Blocto, and more…"
+            sub: "Flow, Opensea, Rarible…"
           },
           {
             leading: "$8M+",
@@ -44,6 +44,7 @@ export default {
             sub: "in primary market sales"
           },
           {
+            icon:"https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/eth+icon.svg",
             leading: "20K+ ETH",
             sub: "trading volume in the first week"
           },
@@ -59,17 +60,19 @@ export default {
         logo: '/images/rivermen_logo.png',
         statistics: [
           {
+            leading: "No. 1",
+            sub: "1h Burn Leaderboard of USM"
+          },
+          {
+            icon:"https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/eth+icon.svg",
             leading: "400+ ETH",
             sub: "in primary market sales"
           },
           {
+            icon:"https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/eth+icon.svg",
             leading: "1.2K+ ETH",
             sub: "total trading volume"
-          },
-          {
-            leading: "No. 1",
-            sub: "spot reached on 1h Burn Leadboard of Ultra Sound Money"
-          },
+          },          
         ],
         detail: "Rivermen is an Oriental Cyber Theme Park based on blockchain technology, launched by the Cthuwork&NA team using elements from the voxel version of the “Along the River During Qingming Festival”. Each unique Rivermen NFT is a randomized 3D character model."
       },
