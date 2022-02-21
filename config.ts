@@ -76,8 +76,9 @@ export default {
     ],
     solutions: [
       {
+        title: 'xxx',
+        subtitle: 'xxx',
         image: '/images/solution1.png',
-        color: '#FCF9F5',
         text: `We provide Matrix World, a decentralized open virtual world that lets users interact with immersive 3D applications simultaneously running on different blockchains.In Matrix World, users can take advantage of standard 3D open-world features such as building 3D architectures, hosting virtual meetings, exhibiting digital assets (e.g., NFTs), etc., along with more advanced functionality such as creating and hosting 3D decentralized applications (DApps) using Matrix's built-in creator services and computational resources. `
       },
       {
