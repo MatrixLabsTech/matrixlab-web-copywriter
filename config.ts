@@ -53,7 +53,7 @@ export default {
       },
       
       {
-        title: "Rivermen",
+        title: "RIVERMEN",
         cover: "/images/rivermen.png",
         link: 'https://rivermen.io/',
         video: 'https://d3qhlnckznpee4.cloudfront.net/rivermenvideo.mp4',
