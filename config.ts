@@ -176,11 +176,6 @@ export default {
         url: 'xx'
       },
       {
-        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/cybergalz.png',
-        name: '',
-        url: 'xx'
-      },
-      {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/gamecreator.png',
         name: '',
         url: 'xx'
