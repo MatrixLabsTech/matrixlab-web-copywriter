@@ -2,8 +2,24 @@ export default {
   common: {
     social: [
       {
-        image: '',
-        link: ''
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/social/twitter.png',
+        link: 'https://twitter.com/0xMatrixLabs'
+      },
+      {
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/social/github.png',
+        link: 'https://github.com/MatrixLabsTech'
+      },
+      {
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/social/opensea.png',
+        link: 'https://opensea.io/MatrixLabs'
+      },
+      {
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/social/linkedln.png',
+        link: 'https://www.linkedin.com/company/78437858/admin/'
+      },
+      {
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/social/bloctobay.png',
+        link: 'https://bay.blocto.app/market?collections=matrix_world'
       }
     ]
   },
