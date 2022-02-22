@@ -3,7 +3,7 @@ export default {
     social: [
       {
         image: '',
-      link: ''
+        link: ''
       }
     ]
   },
