@@ -1,4 +1,12 @@
 export default {
+  common: {
+    social: [
+      {
+        image: '',
+      link: ''
+      }
+    ]
+  },
   home: {
     title: "Home - Matrix Labs",
     email: "wusheng@whitematrix.io",
