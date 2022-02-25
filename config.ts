@@ -278,7 +278,7 @@ export default {
         url: 'xx'
       },
       {
-        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/HashGloba.png',
+        image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/HashGlobal.png',
         name: '',
         url: 'xx'
       },
