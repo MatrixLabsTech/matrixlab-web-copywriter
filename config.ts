@@ -25,7 +25,7 @@ export default {
   },
   home: {
     title: "Home - Matrix Labs",
-    email: "wusheng@whitematrix.io",
+    email: "contact@matrixlabs.org",
     "leading-title": "Bringing the metaverse to life",
     "leading-text": "Matrix Labs is a passionate group of blockchain enthusiasts who are working to build the metaverse and expand the influence of blockchain technology.",
     projects: [
