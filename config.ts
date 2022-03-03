@@ -153,159 +153,159 @@ export default {
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/flow.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.onflow.org/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/blocto.png',
         name: '',
-        url: 'xx'
+        url: 'https://blocto.portto.io/en/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/dapper.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.dapperlabs.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/opensea.png',
         name: '',
-        url: 'xx'
+        url: 'https://opensea.io/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/wm.png',
         name: '',
-        url: 'xx'
+        url: 'https://whitematrix.io/?lang=en'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/gamecreator.png',
         name: '',
-        url: 'xx'
+        url: 'https://gamecreator.io/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/mrc.png',
         name: '',
-        url: 'xx'
+        url: 'https://mrc.science.ualberta.ca/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/chainide.png',
         name: '',
-        url: 'xx'
+        url: 'https://chainide.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/rarible.png',
         name: '',
-        url: 'xx'
+        url: 'https://rarible.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/rhizeme.png',
         name: '',
-        url: 'xx'
+        url: 'https://discord.com/invite/TPFVRC3C'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/ezek.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.ezek.io/ '
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/viv3.png',
         name: '',
-        url: 'xx'
+        url: 'https://viv3.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/rivermen.png',
         name: '',
-        url: 'xx'
+        url: 'https://rivermen.io/blindBox/purchase'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/mask.png',
         name: '',
-        url: 'xx'
+        url: 'https://mask.io/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/partner/emeraldcity.png',
         name: '',
-        url: 'xx'
+        url: 'https://discord.com/invite/emeraldcity '
       }
     ],
     investors: [
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/TessVentures.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.tessventures.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/EVG.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.evg.co/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/Com2uS.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.com2us.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/Y2Z.png',
         name: '',
-        url: 'xx'
+        url: 'https://y2z.io/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/Dapper.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.dapperlabs.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/Animoca.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.animocabrands.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/Sky9.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.sky9capital.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/Bonfire.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.bonfirevc.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/SevenX.png',
         name: '',
-        url: 'xx'
+        url: 'http://www.7xvc.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/Fenbushi.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.fenbushicapital.vc/index_en.html'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/HashGlobal.png',
         name: '',
-        url: 'xx'
+        url: 'https://twitter.com/HashGlobal'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/ArkStream.png',
         name: '',
-        url: 'xx'
+        url: 'https://arkstream.capital/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/SecondLive.png',
         name: '',
-        url: 'xx'
+        url: 'https://secondlive.world/'
       },
        {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/MoonCapital.png',
         name: '',
-        url: 'xx'
+        url: 'https://mooncapital.xyz/'
       },
        {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/PANONY.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.panony.com/'
       },
        {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/LucidBlue.png',
         name: '',
-        url: 'xx'
+        url: 'https://www.lucidblueventures.com/'
       },
       {
         image: 'https://matrixlabs-resource.s3.ap-northeast-1.amazonaws.com/icon/investor/MatchA.png',
