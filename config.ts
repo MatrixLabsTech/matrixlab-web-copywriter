@@ -30,7 +30,7 @@ export default {
     "leading-text": "Matrix Labs is a passionate group of blockchain enthusiasts who are working to build the metaverse and expand the influence of blockchain technology.",
     projects: [
       {
-        title: "Matrix World",
+        title: "Matrix World ",
         cover: "https://d1k9x4lnw4ejm1.cloudfront.net/matrixcover.jpg",
         video: "https://d1k9x4lnw4ejm1.cloudfront.net/matrixvideo.mp4",
         link: 'https://www.matrixworld.org/home',
