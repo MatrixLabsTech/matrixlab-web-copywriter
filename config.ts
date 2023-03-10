@@ -125,7 +125,7 @@ export default {
         subtitle: '',
         image: 'https://d1k9x4lnw4ejm1.cloudfront.net/Matrix+Marketplace.png',
         text: [
-          'The first all-in-one marketplace for creators, collectors, and traders on flow. ',
+          'The first all-in-one marketplace for creators, collectors, and traders on Flow. ',
           'For creators: support users to create their own collections and NFTs, and provide the construction of the offering page and the primary market offering function. ',
           'For all traders: NFT creation, collection, trading, biding, and transfer, trade history.',
           'For collectors: Better sorting, filtering, rarity tools, trade history, etc.',
