@@ -31,10 +31,10 @@ export default {
     projects: [
       {
         title: "Matrix World ",
-        cover: "https://d1k9x4lnw4ejm1.cloudfront.net/matrixcover.jpg",
-        video: "https://d1k9x4lnw4ejm1.cloudfront.net/matrixvideo.mp4",
+        cover: "https://media.nft.matrixworld.org/videos/video_new_poster.jpg",
+        video: "https://media.nft.matrixworld.org/videos/video_new.mp4",
         link: 'https://www.matrixworld.org/home',
-        logo: '/images/matrix_logo.svg',
+        logo: '/images/logo_black.png',
         statistics: [
           {
             leading: "MULTICHAIN",
@@ -51,7 +51,7 @@ export default {
         ],
         detail: "Matrix World is an exciting next-generation metaverse where users can create, connect, explore, and play like never before. The open world enables users to build immersive 3D applications on top of several different blockchains."
       },
-      
+
       {
         title: "Phanta Bear",
         cover: "https://d1k9x4lnw4ejm1.cloudfront.net/phantabearcover.jpg",
@@ -68,14 +68,14 @@ export default {
             sub: "in primary market sales"
           },
           {
-            icon:"https://d1k9x4lnw4ejm1.cloudfront.net/eth+icon.svg",
+            icon: "https://d1k9x4lnw4ejm1.cloudfront.net/eth+icon.svg",
             leading: "20K+",
             sub: "trading volume in the first week"
           },
         ],
         detail: "The PhantaBear project was jointly launched by Jay Chou's PHANTACi and Ezek. PhantaBear is a collection of 10,000 algorithmically generated digital collectibles that double as membership cards for the Ezek Club. Each PhantaBear has a unique set of traits and unlocks varying, unique levels of access and perks for its owner."
       },
-      
+
       {
         title: "RIVERMEN",
         cover: "/images/rivermen.png",
@@ -88,15 +88,15 @@ export default {
             sub: "1h Burn Leaderboard of USM"
           },
           {
-            icon:"https://d1k9x4lnw4ejm1.cloudfront.net/eth+icon.svg",
+            icon: "https://d1k9x4lnw4ejm1.cloudfront.net/eth+icon.svg",
             leading: "400+",
             sub: "in primary market sales"
           },
           {
-            icon:"https://d1k9x4lnw4ejm1.cloudfront.net/eth+icon.svg",
+            icon: "https://d1k9x4lnw4ejm1.cloudfront.net/eth+icon.svg",
             leading: "1.2K+",
             sub: "total trading volume"
-          },          
+          },
         ],
         detail: "Rivermen is an Oriental Cyber Theme Park based on blockchain technology, launched by the Cthuwork&NA team using elements from the voxel version of the “Along the River During Qingming Festival”. Each unique Rivermen NFT is a randomized 3D character model."
       },
@@ -295,17 +295,17 @@ export default {
         name: '',
         url: 'https://secondlive.world/'
       },
-       {
+      {
         image: 'https://d1k9x4lnw4ejm1.cloudfront.net/icon/investor/MoonCapital.png',
         name: '',
         url: 'https://mooncapital.xyz/'
       },
-       {
+      {
         image: 'https://d1k9x4lnw4ejm1.cloudfront.net/icon/investor/PANONY.png',
         name: '',
         url: 'https://www.panony.com/'
       },
-       {
+      {
         image: 'https://d1k9x4lnw4ejm1.cloudfront.net/icon/investor/LucidBlue.png',
         name: '',
         url: 'https://www.lucidblueventures.com/'
@@ -330,14 +330,14 @@ export default {
       ]
     },
     jobs: {
-      Art: [        
-        { 
+      Art: [
+        {
           id: 0,
           title: 'Character Concept Artist',
           responsibility: [
             'Create characters based on the combined requirements of the Art Director and the game design team.',
             'Work with the Art Director and other team members to establish style guidelines and integrate them into the concept art.',
-            'Review concept art from art vendors and provide feedback.' 
+            'Review concept art from art vendors and provide feedback.'
           ],
           requirments: [
             'Solid painting skills and understanding of painting techniques.',
@@ -348,14 +348,14 @@ export default {
           ],
           apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         },
-        { 
+        {
           id: 1,
           title: 'Environment Concept Artist',
           responsibility: [
             'Work closely with the Art Director to decide the game style and formulate design guidelines and specifications for environment concept creation.',
             'Coordinate between concept artists and the 3D environment team.',
-            'Create environment concept designs upon request.' ,
-            'Review the concept art submitted by outsourcing companies and provide feedback.' 
+            'Create environment concept designs upon request.',
+            'Review the concept art submitted by outsourcing companies and provide feedback.'
           ],
           requirments: [
             'Passionate about the gaming industry. Have a good understanding of what makes games visually appealing and fun to play.',
@@ -370,7 +370,7 @@ export default {
           ],
           apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         },
-        { 
+        {
           id: 2,
           title: '3D Modeler',
           responsibility: [
@@ -387,7 +387,7 @@ export default {
           ],
           apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         },
-        { 
+        {
           id: 3,
           title: 'UI Designer',
           responsibility: [
@@ -407,16 +407,16 @@ export default {
         }
       ],
       Technology: [
-        { 
+        {
           id: 0,
           title: 'Senior Unity Developer',
           responsibility: [
             'Coordinate the work of other developers and provide mentorship and support for less experienced teammates.',
             'Hands on implementation of features and updates with other developers.',
-            'Create technical designs for reusable white label systems that meet current requirements and anticipate future needs.' ,
-            'Work with back-end developers for seamless integration of features and live ops.' ,
-            'Build a deep understanding of core systems and architecture to provide quality benchmarking on process, updates and optimizations.' ,
-            'Uphold code quality and code reviews while ensuring features are delivered on time.' 
+            'Create technical designs for reusable white label systems that meet current requirements and anticipate future needs.',
+            'Work with back-end developers for seamless integration of features and live ops.',
+            'Build a deep understanding of core systems and architecture to provide quality benchmarking on process, updates and optimizations.',
+            'Uphold code quality and code reviews while ensuring features are delivered on time.'
           ],
           requirments: [
             'Bachelor’s Degree or better in Computer Science.',
@@ -438,7 +438,7 @@ export default {
         }
       ],
       'Creative Direction': [
-        { 
+        {
           id: 0,
           title: 'Game Designer',
           responsibility: [
@@ -452,14 +452,14 @@ export default {
             'Proficiency with design and prototyping tools including but not limited to Adobe Creative Suite, Sketch and different game engines.',
             'Detail oriented, able to prioritize player experience, open to new ideas and approaches, willing to learn new tools and technologies related to the profession.'
           ],
-          nice:[
+          nice: [
             'Passionate about the gaming industry, interested in blockchain technology and being a part of the Web 3.0 experience.',
             'Comfortable with intrinsic characteristics of early R&D.',
             'Experience in developing MMORPGs.'
           ],
           apply: 'https://forms.gle/bk4ZVY8omFy3dm3QA'
         },
-        { 
+        {
           id: 1,
           title: 'Art Director',
           responsibility: [
