@@ -75,31 +75,6 @@ export default {
         ],
         detail: "The PhantaBear project was jointly launched by Jay Chou's PHANTACi and Ezek. PhantaBear is a collection of 10,000 algorithmically generated digital collectibles that double as membership cards for the Ezek Club. Each PhantaBear has a unique set of traits and unlocks varying, unique levels of access and perks for its owner."
       },
-
-      {
-        title: "RIVERMEN",
-        cover: "/images/rivermen.png",
-        link: 'https://rivermen.io/',
-        video: 'https://d1k9x4lnw4ejm1.cloudfront.net/rivermenvideo.mp4',
-        logo: '/images/rivermen_logo.png',
-        statistics: [
-          {
-            leading: "No. 1",
-            sub: "1h Burn Leaderboard of USM"
-          },
-          {
-            icon: "https://d1k9x4lnw4ejm1.cloudfront.net/eth+icon.svg",
-            leading: "400+",
-            sub: "in primary market sales"
-          },
-          {
-            icon: "https://d1k9x4lnw4ejm1.cloudfront.net/eth+icon.svg",
-            leading: "1.2K+",
-            sub: "total trading volume"
-          },
-        ],
-        detail: "Rivermen is an Oriental Cyber Theme Park based on blockchain technology, launched by the Cthuwork&NA team using elements from the voxel version of the “Along the River During Qingming Festival”. Each unique Rivermen NFT is a randomized 3D character model."
-      },
     ],
     solutions: [
       {
