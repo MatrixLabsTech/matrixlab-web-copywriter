@@ -32,7 +32,7 @@ export default {
     "leading-text": "Matrix Labs is a passionate group of blockchain enthusiasts who are working to build the metaverse and expand the influence of blockchain technology.",
     projects: [
       {
-        title: "WORLD3",
+        title: "<span style='color: #8558DD'>WORLD</span>3",
         cover: "/images/world3_cover.png",
         link: 'https://world3.ai',
         logo: '/images/world3_logo.svg',
@@ -47,7 +47,7 @@ export default {
             leading: "AUTONOMOUS",
           },
         ],
-        detail: "WORLD3 is the next-generation AI-powered Autonomous World that connects Bitcoin with all other Turing-complete blockchains. Here, users can create, customize, and interact with AI-powered companions known as SOULs. Delve into our expansive ecosystem of interactive Nexus points (user-created applications), each contributing to a rich, dynamic universe."
+        detail: "<b>WORLD3 is the next-generation AI-powered Autonomous World that connects Bitcoin with all other Turing-complete blockchains.</b> Here, users can create, customize, and interact with AI-powered companions known as SOULs. Delve into our expansive ecosystem of interactive Nexus points (user-created applications), each contributing to a rich, dynamic universe."
       },
       {
         title: "Matrix World ",
