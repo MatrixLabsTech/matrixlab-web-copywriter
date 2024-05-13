@@ -32,22 +32,22 @@ export default {
     "leading-text": "Matrix Labs is a passionate group of blockchain enthusiasts who are working to build the metaverse and expand the influence of blockchain technology.",
     projects: [
       {
-        title: "Matrix Universe",
-        animation: lottieJson,
-        link: 'https://matrixuniverse.xyz',
-        logo: '/images/logo_black.png',
+        title: "WORLD3",
+        cover: "/images/world3_cover.png"
+        link: 'https://world3.ai',
+        logo: '/images/world3_logo.svg',
         statistics: [
           {
-            leading: "World",
+            leading: "CUSTOMIZABLE",
           },
           {
-            leading: "Intelli",
+            leading: "AI-POWERED",
           },
           {
-            leading: "Treasure",
+            leading: "AUTONOMOUS",
           },
         ],
-        detail: "The Matrix Universe is a pioneering Web3 entertainment platform, in which the power of decentralization meets the innovations of artificial intelligence in an autonomous digital realm. This is an ecosystem where entertainment transcends traditional boundaries; where community is built, found, and fostered; and every interaction is an opportunity to explore, create and grow."
+        detail: "WORLD3 is the next-generation AI-powered Autonomous World that connects Bitcoin with all other Turing-complete blockchains. Here, users can create, customize, and interact with AI-powered companions known as SOULs. Delve into our expansive ecosystem of interactive Nexus points (user-created applications), each contributing to a rich, dynamic universe."
       },
       {
         title: "Matrix World ",
