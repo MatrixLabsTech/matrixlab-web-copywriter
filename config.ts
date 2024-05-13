@@ -33,7 +33,7 @@ export default {
     projects: [
       {
         title: "WORLD3",
-        cover: "/images/world3_cover.png"
+        cover: "/images/world3_cover.png",
         link: 'https://world3.ai',
         logo: '/images/world3_logo.svg',
         statistics: [
